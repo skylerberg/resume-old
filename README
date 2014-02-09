@@ -1,0 +1,7 @@
+This resume is a work in progress.
+The title lines on each experience item are currently incorrect.
+
+The macros.tex file is used to choose what to include and what not to include.
+To make a custom resume (with certain items omitted), I need only make a script to alter macros.tex and add a new Make target.
+
+Take a look at setups/anon.sh and the associated Make target to see a good example of this.
