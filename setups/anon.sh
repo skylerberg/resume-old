@@ -8,3 +8,4 @@ sed -i '' 's/\(github}\){.*}/\1{github.com\/guyincognito4ever}/g' $MACROS
 sed -i '' 's/\(uo}\){.*}/\1{SU}/g' $MACROS
 sed -i '' 's/\(UO}\){.*}/\1{State University}/g' $MACROS
 sed -i '' 's/\(NW}\){.*}/\1{}/g' $MACROS
+sed -i '' 's/\(juilfsname}\){.*}/\1{LocalName}/g' $MACROS
